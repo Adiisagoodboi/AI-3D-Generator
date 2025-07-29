@@ -1,0 +1,1 @@
+Boxy rectangular body with rounded corners and a retractable handle.

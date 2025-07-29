@@ -1,0 +1,1 @@
+Flat rectangular slab with rounded corners and a centered screen.

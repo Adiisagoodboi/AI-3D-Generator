@@ -1,0 +1,1 @@
+Segmented mechanical arm with joints and a claw or gripper at the end.
